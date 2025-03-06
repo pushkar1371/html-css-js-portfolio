@@ -279,6 +279,13 @@ section {
   flex-direction: column;
 }
 
+.about-project {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 1rem;
+}
+
 .about-containers,
 .about-details-container {
   display: flex;
@@ -356,7 +363,6 @@ article .icon {
   cursor: default;
 }
 
-
 /* EXPERIENCE SECTION */
 
 #experience {
@@ -394,7 +400,8 @@ article {
 
 article .icon {
   cursor: default;
-} */
+}
+*/
 
  /* PROJECTS SECTION */
 
