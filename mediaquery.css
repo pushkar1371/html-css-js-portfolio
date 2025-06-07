@@ -52,6 +52,9 @@
     footer {
       height: 40vh;
     }
+     .about-project {
+    flex-direction: column;
+  }
     #profile {
       height: 83vh;
       margin-bottom: 0;
